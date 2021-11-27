@@ -1,0 +1,39 @@
+body{
+    background:black;
+    font-family: verdana;
+    margin: auto;
+    max-width: 900px;
+}
+.top{
+    border-radius: 50%;
+    
+}
+#titulo1, .titulo2, .titulo3, .titulo4{
+    color: yellow;
+}
+.titulo1{
+    font-size: 50px;
+    color: yellow;
+    text-align:  center;
+}
+.titulo2{
+    font-size: 15px;
+    text-align: center;
+    font-style: oblique;
+
+}
+.titulo3{
+    font-size: 20px;
+    text-align: justify;
+    font-style: oblique;
+
+}
+.titulo4{
+    font-size: 20px;
+    text-align: justify;
+    font-style: oblique;
+
+}
+.end{
+color:white;
+}
